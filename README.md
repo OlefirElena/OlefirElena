@@ -39,4 +39,8 @@ ____
 
 Умею слушать, говорить, наблюдать и сопереживать.
 
+____
 
+| Funiro (Учебный проект)  | KT Development Test (Учебный проект) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://github.com/OlefirElena/funiro)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/Slice%201.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
