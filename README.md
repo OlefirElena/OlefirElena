@@ -40,6 +40,10 @@ ____
 Умею слушать, говорить, наблюдать и сопереживать.
 
 ____
+| KullJet (Верстка для комерційного використання, для компанії KullJet)  | AllRight (Верстка для комерційного використання) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://olefirelena.github.io/KullJet/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://olefirelena.github.io/AllRight/)  |
+
 | Funiro (Навчальний проект)  | KT Development Test (Навчальний проект) |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
