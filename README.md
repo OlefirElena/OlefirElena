@@ -43,4 +43,4 @@ ____
 
 | Funiro (Учебный проект)  | KT Development Test (Учебный проект) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/Slice%201.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
+| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
