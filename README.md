@@ -46,4 +46,4 @@ ____
 
 | CoolFinance (Верстка для комерційного використання)  | Rhythm (Навчальний проект) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://olefirelena.github.io/Rhythm/)  |
+| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/cover.png)](https://olefirelena.github.io/Rhythm/)  |
