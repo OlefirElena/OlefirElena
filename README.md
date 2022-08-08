@@ -103,6 +103,16 @@ ____
 на рівні читання документації та письмового спілкування
 
 ____
+
+### Контакти
+
+olefirelena.web@gmail.com <br />
+webfactory.dp@gmail.com <br />
++38 (050) 486 95 49 (telegram, viber)<br />
+telergam: https://t.me/olefir_elena<br />
+linkedin: www.linkedin.com/in/olefir-helena/
+
+____
 | KullJet (Верстка для комерційного використання, для компанії KullJet)  | AllRight (Верстка для комерційного використання) |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://olefirelena.github.io/KullJet/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://olefirelena.github.io/AllRight/)  |
