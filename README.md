@@ -119,7 +119,7 @@ linkedin: www.linkedin.com/in/olefir-helena/
 ____
 | KullJet (Верстка для комерційного використання, для компанії KullJet)  | AllRight (Верстка для комерційного використання) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://olefirelena.github.io/KullJet/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://olefirelena.github.io/AllRight/)  |
+| [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://www.all-right.com.ua/)  |
 
 | Funiro (Навчальний проект)  | KT Development Test (Навчальний проект) |
 | ------------- | ------------- |
