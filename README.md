@@ -6,6 +6,19 @@
 28 years old | Ukraine, Kiev
 
 ____
+| KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://www.all-right.com.ua/)  |
+
+| Funiro (test)  | KT Development Test (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
+
+| CoolFinance (Commercial, CoolFinance Company)  | Rhythm (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/Slice1.jpg)](https://olefirelena.github.io/Rhythm/)  |
+
+____
 
 ### Objective:
 
@@ -127,16 +140,3 @@ webfactory.dp@gmail.com <br />
 +38 (050) 486 95 49 (telegram, viber)<br />
 telergam: https://t.me/olefir_elena<br />
 linkedin: www.linkedin.com/in/olefir-helena/
-
-____
-| KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/KullJet/blob/main/img/cover.jpg)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://www.all-right.com.ua/)  |
-
-| Funiro (test)  | KT Development Test (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://github.com/OlefirElena/KTDevelopmentTest)  |
-
-| CoolFinance (Commercial, CoolFinance Company)  | Rhythm (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/Slice1.jpg)](https://olefirelena.github.io/Rhythm/)  |
