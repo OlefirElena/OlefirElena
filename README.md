@@ -50,9 +50,8 @@ ____
 
 ### Description:
 
-- Developing, optimizing and maintaining the websites utilizing HTML, CSS, Javascript, jQuery to meet my clients' needs and goals;
-- Coding design mockups into pixel perfect, tableless, cross-browser compatible, search engine friendly websites via HTML, javascript or fully themed WordPress sites;
-- Diagnosing, troubleshooting and resolving the issues with website, server and/or third-party integrations.
+- Developing websites using HTML, CSS, Javascript, jQuery;
+- Coding design layouts into pixel-perfect, cross-browser, search engine-compatible websites, for submission to backend developer for subsequent integration on CMS WordPress;
 
 ____
 
