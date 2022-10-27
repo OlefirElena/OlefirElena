@@ -8,7 +8,7 @@
 ____
 | KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/KullJet/blob/main/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/img/cover.jpg)](https://www.all-right.com.ua/)  |
+| [![name](https://github.com/OlefirElena/KullJet/blob/main/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/Home-All-Right-Development-Investment.png)](https://www.all-right.com.ua/)  |
 
 | Funiro (test)  | KT Development Test (test) |
 | ------------- | ------------- |
