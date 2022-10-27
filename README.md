@@ -3,7 +3,7 @@
 
 ## My name is Helena. I'm HTML-coder, Frontend Developer & PBN specialist (SeoProfy Company) with 4 years of experience looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
 
-28 years old | Ukraine, Kiev
+28 years old | Ukraine, Kyiv
 
 ____
 | KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
