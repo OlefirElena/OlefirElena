@@ -1,7 +1,7 @@
-# Hi! 👋
+# Hey, I'm Helena 👋
 
 
-## My name is Helena. I'm HTML-coder, Frontend Developer & PBN specialist (SeoProfy Company) with 4 years of experience looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
+I'm Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
 
 28 years old | Ukraine, Kyiv
 
@@ -20,7 +20,7 @@ ____
 
 ____
 
-### Skills:
+### Skills 🚀
 
 - HTML5 / CSS3 + SCSS;
 - JavaScript, jQuery;
