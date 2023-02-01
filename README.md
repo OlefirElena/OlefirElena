@@ -20,42 +20,48 @@ ____
 
 ____
 
-### Skills 🚀
+### Main skills 🚀
 
-- HTML5 / CSS3 + SCSS;
-- JavaScript, jQuery;
-- GULP;
-- Node.js, npm;
-- BEM;
-- Cross-browser and responsive layout;
-- Git / Github;
-- SEO;
-- UI/UX;
-- WordPress (WooCommerce, multilinguality, SEO, MySQL + support);
-- Figma, Photoshop, Adobe illustrator;
-- Experience in website layout 4+ years;
-
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ____
 
-### Description:
+### Extra skills 🚀
 
-- Developing, optimizing and maintaining the websites utilizing HTML, CSS, Javascript, jQuery to meet my clients' needs and goals;
-- Coding design mockups into pixel perfect, tableless, cross-browser compatible, search engine friendly websites via HTML, javascript or fully themed WordPress sites;
-- Diagnosing, troubleshooting and resolving the issues with website, server and/or third-party integrations.
-
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ____
 
-### Working with me you save:
+### What am I good at:
 
-- **Money.**  I qualitatively develop adaptive layout based on PC layouts, which saves your budget significantly and does not require ordering additional design layouts.
-- **Time** to write the terms of reference. I am sure that you can not take into account all the TOR, because I myself, based of experience, predict the logic of a particular element of the layout. Minimum questions, maximum results.
-- **Nerves.** Requests and revisions of non-structural nature are already included in the cost of work! So if you missed a number of small things in the design, they will be made to the layout at your request, without unnecessary disputes and additional costs!
-
+- Developing websites using HTML, CSS, Javascript, jQuery;
+- Coding design layouts into pixel-perfect, cross-browser, search engine-compatible websites, for submission to backend developer for subsequent integration on CMS;
 ____
 
-### Warranty on the layout:
+### My goals:
 
-Within a week after the transfer of the archive with the finished layout I free and immediately correct my mistakes that might have been missed in the process of obtaining work and noticed later.
+- to be part of a friendly and professional team,
+- to be useful to the company,
+- solve problems and implement my skills,
+- work on interesting projects,
+- to develop as a Frontend Developer.
+____
+
+### Personal & business qualities:
+
+- **Compliance with deadlines.**  I work with the GULP project builder, which allows me to speed up the plan. I know how to allocate my time between tasks correctly and profitably.
+- **Decision-making.** Qualitatively I develop adaptive layout based on PC layouts, which saves a lot of time and budget and does not require or order additional design layouts.
+- **Attention to detail.** If the TOR does not take into account some points, I myself, based on experience, predict the logic of a particular element of the layout. Minimum of questions, maximum results.
+- **Self-learning and Googling skills.** All the time I was learning on my own. I searched for information, worked through it and practiced. For me there is no "can't do" or "don't know. I don't wait for people to come and explain. I find a solution and implementation of any task, thereby learning and improving my skills.
 
 ____
 
