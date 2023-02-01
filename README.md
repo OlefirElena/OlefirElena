@@ -33,6 +33,22 @@ ____
 - Coding design layouts into pixel-perfect, cross-browser, search engine-compatible websites, for submission to backend developer for subsequent integration on CMS;
 ____
 
+### Work experience:
+
+1. **Junior Frontend Developer, HTML-coder**
+Freelance January 2019 - Present
+- Makeup of flexible and adaptive websites of varying complexity using HTML5, CSS3, the SCSS preprocessor;
+- Using JavaScript (ES5 and 6) to create logic and additional interactivity on the site. Setting up functionality (buttons, sliders, forms, galleries and other elements) and writing scripts;
+- Ensuring the necessary level of user interface (UI - User Interface) and interaction experience (UX - User Experience).
+
+2. **PBN specialist**
+SeoProfy Company IT services: consulting, development, implementation, hosting, etc. September 2021 - Present
+- Work on existing projects, creation of new sites and support of existing projects;
+- Creating websites based on ready-made templates of CMS WordPress;
+- Ready-made sites support;
+- Domain registration and hosting purchases.
+____
+
 ### My goals:
 
 - to be part of a friendly and professional team,
