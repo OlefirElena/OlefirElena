@@ -4,20 +4,6 @@
 I'm Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
 
 28 years old | Ukraine, Kyiv
-
-____
-| KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/KullJet/blob/main/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/Home-All-Right-Development-Investment.png)](https://www.all-right.com.ua/)  |
-
-| Funiro (test)  | KT Development Test (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://olefirelena.github.io/KTDevelopmentTest/)  |
-
-| CoolFinance (Commercial, CoolFinance Company)  | Rhythm (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/Slice1.jpg)](https://olefirelena.github.io/Rhythm/)  |
-
 ____
 
 ### Main skills 🚀
@@ -63,6 +49,19 @@ ____
 - **Attention to detail.** If the TOR does not take into account some points, I myself, based on experience, predict the logic of a particular element of the layout. Minimum of questions, maximum results.
 - **Self-learning and Googling skills.** All the time I was learning on my own. I searched for information, worked through it and practiced. For me there is no "can't do" or "don't know. I don't wait for people to come and explain. I find a solution and implementation of any task, thereby learning and improving my skills.
 
+____
+
+| KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/KullJet/blob/main/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/Home-All-Right-Development-Investment.png)](https://www.all-right.com.ua/)  |
+
+| Funiro (test)  | KT Development Test (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://olefirelena.github.io/KTDevelopmentTest/)  |
+
+| CoolFinance (Commercial, CoolFinance Company)  | Rhythm (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/Slice1.jpg)](https://olefirelena.github.io/Rhythm/)  |
 ____
 
 ### Contacts
