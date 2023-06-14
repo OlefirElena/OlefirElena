@@ -83,6 +83,10 @@ ____
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/MILAN.png)](https://www.milan.dp.ua/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Residence-permit-in-Cyprus-immigration-to-Cyprus-Avrora-Trading-LTD.png)](https://www.cyprus-aurora.com/) |
 
+| Zlitay | Charitable Foundation |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Zlitay-women-s-designer-clothing-online-store-Kyiv-Ukraine.png)](https://zlitay.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/bffond.png)](https://www.bf-ato.com.ua/uk/) |
+
 | Funiro (test)  | KT Development Test (test) |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Funiro.png)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Home.png)](https://olefirelena.github.io/KTDevelopmentTest/)  |
