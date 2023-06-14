@@ -73,7 +73,15 @@ ____
 
 | KullJet | All Right Development |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/) |
+
+| Canada Immigration | Grand Records |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Canada-Immigration-Made-Simple-Start-Your-Journey-Today.png)](https://www.canada-aurora.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/tree/main/img#:~:text=11%20minutes%20ago-,Grand%2DRecords.png,-(File))](https://grand-studio.com.ua/) |
+
+| Milan | Cyprus Immigration |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/MILAN.png)](https://www.milan.dp.ua/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/tree/main/img#:~:text=17%20minutes%20ago-,Residence%2Dpermit%2Din%2DCyprus%2Dimmigration%2Dto%2DCyprus%2DAvrora%2DTrading%2DLTD.png,-(File))](https://www.cyprus-aurora.com/) |
 
 | Funiro (test)  | KT Development Test (test) |
 | ------------- | ------------- |
