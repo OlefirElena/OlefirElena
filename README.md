@@ -67,9 +67,9 @@ ____
 
 ____
 
-| KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
+| Chloé Voyante (Commercial)  | All Music Records (Commercial) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/d9aec0a60be3b5ba96d322cb52f862fe2c6ff7d9/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/AllRight/blob/main/Home-All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Music-Records-AM-Records.png)](https://www.am-records.com.ua/)  |
 
 | KullJet (Commercial, KullJet Company)  | All Right Development (Commercial, ARD Company) |
 | ------------- | ------------- |
