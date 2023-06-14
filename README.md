@@ -77,11 +77,11 @@ ____
 
 | Funiro (test)  | KT Development Test (test) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/funiro/blob/main/img/funiro.jpg)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/KTDevelopmentTest/blob/main/img/cover.jpg)](https://olefirelena.github.io/KTDevelopmentTest/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Funiro.png)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Home.png)](https://olefirelena.github.io/KTDevelopmentTest/)  |
 
-| CoolFinance (Commercial, CoolFinance Company)  | Rhythm (test) |
+| CoolFinance  | Rhythm (test) |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/CoolFinance/blob/main/img/cover.jpg)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/Rhythm/blob/main/img/Slice1.jpg)](https://olefirelena.github.io/Rhythm/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Rhythm.png)](https://olefirelena.github.io/Rhythm/)  |
 ____
 
 ### Contacts
