@@ -1,4 +1,4 @@
-# Hey, I'm Helena 👋
+<img width="1440" alt="image" src="https://github.com/OlefirElena/OlefirElena/assets/89462830/b205f3ab-0cb3-45a6-9f44-eb720d328c6d"># Hey, I'm Helena 👋
 
 
 I'm HTML-coder, Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
@@ -6,13 +6,17 @@ I'm HTML-coder, Junior Frontend Developer looking for an interesting and rewardi
 29 years old | Ukraine, Kyiv
 ____
 
-| Chloé Voyante  | All Music Records |
+| CoolFinance  | Logos Home |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Music-Records-AM-Records.png)](https://www.am-records.com.ua/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://tinyurl.com/yqyfjyx3)](https://www.logoshome.com.ua/)  |
 
 | KullJet | All Right Development |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/) |
+
+| Chloé Voyante  | All Music Records |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Music-Records-AM-Records.png)](https://www.am-records.com.ua/)  |
 
 | Canada Immigration | Grand Records |
 | ------------- | ------------- |
@@ -29,10 +33,6 @@ ____
 | Funiro (test)  | KT Development Test (test) |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Funiro.png)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Home.png)](https://olefirelena.github.io/KTDevelopmentTest/)  |
-
-| CoolFinance  | Rhythm (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Rhythm.png)](https://olefirelena.github.io/Rhythm/)  |
 
 ____
 
