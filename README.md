@@ -1,5 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/OlefirElena/OlefirElena/assets/89462830/b205f3ab-0cb3-45a6-9f44-eb720d328c6d"># Hey, I'm Helena 👋
-
+# Hey, I'm Helena 👋
 
 I'm HTML-coder, Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
 
@@ -8,7 +7,7 @@ ____
 
 | CoolFinance  | Logos Home |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://tinyurl.com/yqyfjyx3)](https://www.logoshome.com.ua/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://drive.google.com/file/d/16ZhCUas57_SfFsB89AzNPwsjuH2KZELg/view?usp=sharing)](https://www.logoshome.com.ua/)  |
 
 | KullJet | All Right Development |
 | ------------- | ------------- |
