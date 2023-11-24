@@ -1,9 +1,39 @@
 # Hey, I'm Helena 👋
 
 
-I'm Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
+I'm HTML-coder, Junior Frontend Developer looking for an interesting and rewarding web development projects where I can use my diverse education and experience. 
 
-28 years old | Ukraine, Kyiv
+29 years old | Ukraine, Kyiv
+____
+
+| Chloé Voyante  | All Music Records |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Music-Records-AM-Records.png)](https://www.am-records.com.ua/)  |
+
+| KullJet | All Right Development |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/) |
+
+| Canada Immigration | Grand Records |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Canada-Immigration-Made-Simple-Start-Your-Journey-Today.png)](https://www.canada-aurora.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Grand-Records.png)](https://grand-studio.com.ua/) |
+
+| Milan | Cyprus Immigration |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/MILAN.png)](https://www.milan.dp.ua/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Residence-permit-in-Cyprus-immigration-to-Cyprus-Avrora-Trading-LTD.png)](https://www.cyprus-aurora.com/) |
+
+| Zlitay | Charitable Foundation |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Zlitay-women-s-designer-clothing-online-store-Kyiv-Ukraine.png)](https://zlitay.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/bffond.png)](https://www.bf-ato.com.ua/uk/) |
+
+| Funiro (test)  | KT Development Test (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Funiro.png)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Home.png)](https://olefirelena.github.io/KTDevelopmentTest/)  |
+
+| CoolFinance  | Rhythm (test) |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Rhythm.png)](https://olefirelena.github.io/Rhythm/)  |
+
 ____
 
 ### Main skills 🚀
@@ -29,7 +59,7 @@ ____
 
 ### What am I good at:
 
-- Developing websites using HTML, CSS, Javascript, jQuery;
+- Developing websites using HTML, CSS, Javascript;
 - Coding design layouts into pixel-perfect, cross-browser, search engine-compatible websites, for submission to backend developer for subsequent integration on CMS;
 ____
 
@@ -65,35 +95,6 @@ ____
 - **Attention to detail.** If the TOR does not take into account some points, I myself, based on experience, predict the logic of a particular element of the layout. Minimum of questions, maximum results.
 - **Self-learning and Googling skills.** All the time I was learning on my own. I searched for information, worked through it and practiced. For me there is no "can't do" or "don't know. I don't wait for people to come and explain. I find a solution and implementation of any task, thereby learning and improving my skills.
 
-____
-
-| Chloé Voyante  | All Music Records |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Cartes-de-tarot-envo%C3%BBtantes-D%C3%A9chiffrez-les-secrets-de-votre-destin%C3%A9e.png)](https://chloe-voyante.com/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Music-Records-AM-Records.png)](https://www.am-records.com.ua/)  |
-
-| KullJet | All Right Development |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/) |
-
-| Canada Immigration | Grand Records |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Canada-Immigration-Made-Simple-Start-Your-Journey-Today.png)](https://www.canada-aurora.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Grand-Records.png)](https://grand-studio.com.ua/) |
-
-| Milan | Cyprus Immigration |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/MILAN.png)](https://www.milan.dp.ua/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Residence-permit-in-Cyprus-immigration-to-Cyprus-Avrora-Trading-LTD.png)](https://www.cyprus-aurora.com/) |
-
-| Zlitay | Charitable Foundation |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Zlitay-women-s-designer-clothing-online-store-Kyiv-Ukraine.png)](https://zlitay.com/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/bffond.png)](https://www.bf-ato.com.ua/uk/) |
-
-| Funiro (test)  | KT Development Test (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Funiro.png)](https://olefirelena.github.io/funiro/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Home.png)](https://olefirelena.github.io/KTDevelopmentTest/)  |
-
-| CoolFinance  | Rhythm (test) |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Rhythm.png)](https://olefirelena.github.io/Rhythm/)  |
 ____
 
 ### Contacts
