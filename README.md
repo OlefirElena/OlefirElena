@@ -7,7 +7,7 @@ ____
 
 | CoolFinance  | Logos Home |
 | ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://drive.google.com/file/d/16ZhCUas57_SfFsB89AzNPwsjuH2KZELg/view?usp=sharing)](https://www.logoshome.com.ua/)  |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/CoolFinance/blob/main/Logos-Home-Apartment-%D0%90%D0%BF%D0%B0%D1%80%D1%82-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%8C-%D1%83-%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85-%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D0%B5.png)](https://www.logoshome.com.ua/)  |
 
 | KullJet | All Right Development |
 | ------------- | ------------- |
