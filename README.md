@@ -5,13 +5,13 @@ I'm HTML-coder, Junior Frontend Developer looking for an interesting and rewardi
 29 years old | Ukraine, Kyiv
 ____
 
-| CoolFinance  | Logos Home |
-| ------------- | ------------- |
-| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/CoolFinance/blob/main/Logos-Home-Apartment-%D0%90%D0%BF%D0%B0%D1%80%D1%82-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%8C-%D1%83-%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85-%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D0%B5.png)](https://www.logoshome.com.ua/)  |
-
 | KullJet | All Right Development |
 | ------------- | ------------- |
 | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/Private-Jet-Rental-European-Air-Charter-Cost-Hire-with-Kulljet-aero.png)](https://kulljet.aero/) | [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/All-Right-Development-Investment.png)](https://olefirelena.github.io/AllRight/) |
+
+| CoolFinance  | Logos Home |
+| ------------- | ------------- |
+| [![name](https://github.com/OlefirElena/TestOlefirHelena/blob/main/img/clfn.png)](https://olefirelena.github.io/CoolFinance/)  | [![name](https://github.com/OlefirElena/CoolFinance/blob/main/Logos-Home-Apartment-%D0%90%D0%BF%D0%B0%D1%80%D1%82-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%8C-%D1%83-%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85-%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D0%B5.png)](https://www.logoshome.com.ua/)  |
 
 | Chloé Voyante  | All Music Records |
 | ------------- | ------------- |
